@@ -1,0 +1,32 @@
+.code {
+    height: 300px !important;
+}
+.caption {
+    min-height: 315px !important;
+}
+.form-inline {
+    padding-left: 0;
+    padding-right: 0;
+}
+.form-inline .form-control.send-text {
+    width: 100%;
+}
+.form-group {
+    width: 100%;
+}
+.message_scroller {
+    width: 100%;
+    height: 100%;
+    overflow-y: scroll;
+}
+.well {
+    margin-bottom: 10px;
+}
+h3 {
+    margin-top: 0;
+}
+h1 {
+    border-bottom: 1px solid lightgrey;
+    padding-bottom:15px;
+    margin-bottom:25px;
+}
