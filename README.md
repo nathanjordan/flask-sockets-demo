@@ -29,15 +29,17 @@ Since Flask and the underlying Werkzeug HTTP server do not include a way to
 access the WSGI websocket implementation, we cannot simply invoke
 <code>app.run("host",8080)</code> as we would on a traditional Flask app.
 
-Instead we must use [gunicorn]() as our HTTP server, since it has a gevent
+Instead we must use [gunicorn](http://gunicorn.org/) as our HTTP server, since it has a gevent
 websocket implementation built in. To execute the server on localhost:8080, we
 can execute
 
 <pre>
-gunicorn -k flask\_sockets.worker server:app -b localhost:8080
+gunicorn -k flask_sockets.worker server:app -b localhost:8080
 </pre>
 
 Once this is running the demo can be found at
 <code>http://localhost:8080/</code>
 
 Cheers!
+
+<img src="http://i1157.photobucket.com/albums/p593/yousirareacuntt/tumblr_lzd4b5Rq5O1r0d0y0-1.gif">
