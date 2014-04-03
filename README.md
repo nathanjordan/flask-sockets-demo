@@ -42,4 +42,4 @@ Once this is running the demo can be found at
 
 Cheers!
 
-<img src="http://i1157.photobucket.com/albums/p593/yousirareacuntt/tumblr_lzd4b5Rq5O1r0d0y0-1.gif">
+<img src="http://img1.wikia.nocookie.net/__cb20130303050918/adventuretimewithfinnandjake/images/3/36/Gentle_lasers.gif">
