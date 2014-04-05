@@ -43,3 +43,7 @@ Once this is running the demo can be found at
 Cheers!
 
 <img src="http://img1.wikia.nocookie.net/__cb20130303050918/adventuretimewithfinnandjake/images/3/36/Gentle_lasers.gif">
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/nathanjordan/flask-sockets-demo/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
